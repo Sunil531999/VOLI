@@ -6,3 +6,5 @@ AI based desktop pet
 
 - ESP32
 - OLED Display 
+
+## Currently in progress
