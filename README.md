@@ -8,3 +8,4 @@ AI based desktop pet
 - OLED Display 
 
 ## Currently in progress
+![](https://github.com/Sunil531999/VOLI---AI-Desktop-Pet/blob/main/test/face%20animation.gif)
